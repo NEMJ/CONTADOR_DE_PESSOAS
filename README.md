@@ -1,4 +1,4 @@
-# contador_de_pessoas
+# Contador de Pessoas
 
 Primeiro projeto em Flutter
 
@@ -14,3 +14,16 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+# Sobre o projeto
+A aplicação consiste em um contador simples, onde há troca de informação quando o número de pessoas no estabelecimento é exedido. Há também uma brincadeira caso o número de pessoas seja inferior a zero
+
+
+## Layout do App
+![GIF do Projeto](./images/contador_de_pessoas.gif)
+
+## Tecnologias Utilizadas
+- Flutter
+
+# Autor
+Nelson Eduardo da Mata Junior
