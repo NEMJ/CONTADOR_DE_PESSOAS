@@ -20,7 +20,7 @@ A aplicação consiste em um contador simples, onde há troca de informação qu
 
 
 ## Layout do App
-![GIF do Projeto](./images/contador_de_pessoas.gif)
+<img align="center" alt="Demonstacao" src="./images/contador_de_pessoas.gif"/>
 
 ## Tecnologias Utilizadas
 - Flutter
